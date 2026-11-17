@@ -1,0 +1,22 @@
+{
+  "title": "Dateibrowser",
+  "home": "Persönlicher Ordner",
+  "back": "Zurück",
+  "up": "Nach oben",
+  "refresh": "Aktualisieren",
+  "go": "Los",
+  "address": "Ordnerpfad…",
+  "hidden": "Versteckte",
+  "loading": "Wird geladen…",
+  "empty": "Dieser Ordner ist leer.",
+  "permission": "Du hast keine Berechtigung, diesen Ordner zu lesen.",
+  "missing": "Der Ordner existiert nicht oder der Pfad verweist auf eine Datei.",
+  "invalid": "Der Ordner konnte nicht gelesen werden.",
+  "limited": "Die ersten %1 Einträge werden angezeigt. Öffne die Dateiverwaltung, um alle zu sehen.",
+  "openManager": "In der Dateiverwaltung öffnen",
+  "hint": "Klicke einmal, um einen Ordner oder eine Datei zu öffnen.",
+  "count": {
+    "one": "%1 Eintrag",
+    "other": "%1 Einträge"
+  }
+}

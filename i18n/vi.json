@@ -1,0 +1,21 @@
+{
+  "title": "Trình duyệt tệp",
+  "home": "Thư mục nhà",
+  "back": "Quay lại",
+  "up": "Lên trên",
+  "refresh": "Làm mới",
+  "go": "Đi đến",
+  "address": "Đường dẫn thư mục…",
+  "hidden": "Tệp ẩn",
+  "loading": "Đang tải…",
+  "empty": "Thư mục này trống.",
+  "permission": "Bạn không có quyền đọc thư mục này.",
+  "missing": "Thư mục không tồn tại hoặc đường dẫn trỏ đến một tệp.",
+  "invalid": "Không thể đọc thư mục.",
+  "limited": "Đang hiển thị %1 mục đầu tiên. Mở trình quản lý tệp để xem tất cả.",
+  "openManager": "Mở trong trình quản lý tệp",
+  "hint": "Nhấp một lần để mở thư mục hoặc tệp.",
+  "count": {
+    "other": "%1 mục"
+  }
+}

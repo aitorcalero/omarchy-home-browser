@@ -1,0 +1,22 @@
+{
+  "title": "Filbrowser",
+  "home": "Hjem",
+  "back": "Tilbage",
+  "up": "Op",
+  "refresh": "Opdater",
+  "go": "Gå",
+  "address": "Mappesti…",
+  "hidden": "Skjulte",
+  "loading": "Indlæser…",
+  "empty": "Denne mappe er tom.",
+  "permission": "Du har ikke tilladelse til at læse denne mappe.",
+  "missing": "Mappen findes ikke, eller stien peger på en fil.",
+  "invalid": "Kunne ikke læse mappen.",
+  "limited": "Viser de første %1 elementer. Åbn filhåndteringen for at se dem alle.",
+  "openManager": "Åbn i filhåndtering",
+  "hint": "Klik én gang for at åbne en mappe eller fil.",
+  "count": {
+    "one": "%1 element",
+    "other": "%1 elementer"
+  }
+}

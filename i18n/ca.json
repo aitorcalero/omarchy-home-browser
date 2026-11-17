@@ -1,0 +1,23 @@
+{
+  "title": "Explorador de fitxers",
+  "home": "Carpeta personal",
+  "back": "Enrere",
+  "up": "Amunt",
+  "refresh": "Actualitza",
+  "go": "Ves-hi",
+  "address": "Camí de la carpeta…",
+  "hidden": "Ocults",
+  "loading": "S’està carregant…",
+  "empty": "Aquesta carpeta és buida.",
+  "permission": "No tens permís per llegir aquesta carpeta.",
+  "missing": "La carpeta no existeix o el camí correspon a un fitxer.",
+  "invalid": "No s’ha pogut llegir la carpeta.",
+  "limited": "Es mostren els primers %1 elements. Obre el gestor de fitxers per veure’ls tots.",
+  "openManager": "Obre al gestor de fitxers",
+  "hint": "Fes un clic per obrir una carpeta o un fitxer.",
+  "count": {
+    "one": "%1 element",
+    "many": "%1 elements",
+    "other": "%1 elements"
+  }
+}

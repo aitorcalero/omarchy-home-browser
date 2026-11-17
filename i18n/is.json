@@ -1,0 +1,22 @@
+{
+  "title": "Skráavafri",
+  "home": "Heimamappa",
+  "back": "Til baka",
+  "up": "Upp",
+  "refresh": "Endurhlaða",
+  "go": "Fara",
+  "address": "Slóð möppu…",
+  "hidden": "Falið",
+  "loading": "Hleð…",
+  "empty": "Þessi mappa er tóm.",
+  "permission": "Þú hefur ekki heimild til að lesa þessa möppu.",
+  "missing": "Mappan er ekki til eða slóðin vísar á skrá.",
+  "invalid": "Ekki tókst að lesa möppuna.",
+  "limited": "Fyrstu %1 atriðin eru sýnd. Opnaðu skráastjórann til að sjá þau öll.",
+  "openManager": "Opna í skráastjóra",
+  "hint": "Smelltu einu sinni til að opna möppu eða skrá.",
+  "count": {
+    "one": "%1 atriði",
+    "other": "%1 atriði"
+  }
+}

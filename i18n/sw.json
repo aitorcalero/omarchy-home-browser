@@ -1,0 +1,22 @@
+{
+  "title": "Kivinjari cha faili",
+  "home": "Nyumbani",
+  "back": "Nyuma",
+  "up": "Juu",
+  "refresh": "Onyesha upya",
+  "go": "Nenda",
+  "address": "Njia ya folda…",
+  "hidden": "Zilizofichwa",
+  "loading": "Inapakia…",
+  "empty": "Folda hii haina kitu.",
+  "permission": "Huna ruhusa ya kusoma folda hii.",
+  "missing": "Folda hii haipo au njia inaelekeza kwenye faili.",
+  "invalid": "Imeshindikana kusoma folda.",
+  "limited": "Vipengee %1 vya kwanza vinaonyeshwa. Fungua kidhibiti cha faili ili kuviona vyote.",
+  "openManager": "Fungua katika kidhibiti cha faili",
+  "hint": "Bofya mara moja kufungua folda au faili.",
+  "count": {
+    "one": "Kipengee %1",
+    "other": "Vipengee %1"
+  }
+}

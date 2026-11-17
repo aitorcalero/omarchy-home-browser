@@ -1,0 +1,23 @@
+{
+  "title": "Explorador de ficheiros",
+  "home": "Pasta pessoal",
+  "back": "Voltar",
+  "up": "Subir",
+  "refresh": "Atualizar",
+  "go": "Ir",
+  "address": "Caminho da pasta…",
+  "hidden": "Ocultos",
+  "loading": "A carregar…",
+  "empty": "Esta pasta está vazia.",
+  "permission": "Não tem permissão para ler esta pasta.",
+  "missing": "A pasta não existe ou o caminho corresponde a um ficheiro.",
+  "invalid": "Não foi possível ler a pasta.",
+  "limited": "São apresentados os primeiros %1 elementos. Abra o gestor de ficheiros para ver todos.",
+  "openManager": "Abrir no gestor de ficheiros",
+  "hint": "Clique uma vez para abrir uma pasta ou um ficheiro.",
+  "count": {
+    "one": "%1 elemento",
+    "many": "%1 elementos",
+    "other": "%1 elementos"
+  }
+}

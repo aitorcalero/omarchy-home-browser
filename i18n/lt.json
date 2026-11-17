@@ -1,0 +1,23 @@
+{
+  "title": "Failų naršyklė",
+  "home": "Namų aplankas",
+  "back": "Atgal",
+  "up": "Aukštyn",
+  "refresh": "Atnaujinti",
+  "go": "Eiti",
+  "address": "Aplanko kelias…",
+  "hidden": "Paslėpti",
+  "loading": "Įkeliama…",
+  "empty": "Šis aplankas tuščias.",
+  "permission": "Neturite leidimo skaityti šį aplanką.",
+  "missing": "Aplanko nėra arba kelias nurodo failą.",
+  "invalid": "Nepavyko perskaityti aplanko.",
+  "limited": "Rodomi pirmieji %1 elementų. Norėdami matyti visus, atverkite failų tvarkytuvę.",
+  "openManager": "Atverti failų tvarkytuvėje",
+  "hint": "Spustelėkite vieną kartą, kad atvertumėte aplanką ar failą.",
+  "count": {
+    "one": "%1 elementas",
+    "few": "%1 elementai",
+    "other": "%1 elementų"
+  }
+}

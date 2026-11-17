@@ -1,0 +1,23 @@
+{
+  "title": "Esplora file",
+  "home": "Cartella personale",
+  "back": "Indietro",
+  "up": "Su",
+  "refresh": "Aggiorna",
+  "go": "Vai",
+  "address": "Percorso della cartella…",
+  "hidden": "Nascosti",
+  "loading": "Caricamento…",
+  "empty": "Questa cartella è vuota.",
+  "permission": "Non hai il permesso di leggere questa cartella.",
+  "missing": "La cartella non esiste oppure il percorso indica un file.",
+  "invalid": "Impossibile leggere la cartella.",
+  "limited": "Sono mostrati i primi %1 elementi. Apri il gestore di file per vederli tutti.",
+  "openManager": "Apri nel gestore di file",
+  "hint": "Fai clic una volta per aprire una cartella o un file.",
+  "count": {
+    "one": "%1 elemento",
+    "many": "%1 elementi",
+    "other": "%1 elementi"
+  }
+}

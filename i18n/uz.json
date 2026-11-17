@@ -1,0 +1,22 @@
+{
+  "title": "Fayl brauzeri",
+  "home": "Uy",
+  "back": "Orqaga",
+  "up": "Yuqoriga",
+  "refresh": "Yangilash",
+  "go": "O‘tish",
+  "address": "Jild yo‘li…",
+  "hidden": "Yashirin",
+  "loading": "Yuklanmoqda…",
+  "empty": "Bu jild bo‘sh.",
+  "permission": "Bu jildni o‘qishga ruxsatingiz yo‘q.",
+  "missing": "Jild mavjud emas yoki yo‘l faylga ishora qiladi.",
+  "invalid": "Jildni o‘qib bo‘lmadi.",
+  "limited": "Dastlabki %1 ta element ko‘rsatilmoqda. Hammasini ko‘rish uchun fayl boshqaruvchisini oching.",
+  "openManager": "Fayl boshqaruvchisida ochish",
+  "hint": "Jild yoki faylni ochish uchun bir marta bosing.",
+  "count": {
+    "one": "%1 ta element",
+    "other": "%1 ta element"
+  }
+}

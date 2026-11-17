@@ -1,0 +1,23 @@
+{
+  "title": "Preglednik datoteka",
+  "home": "Osobna mapa",
+  "back": "Natrag",
+  "up": "Gore",
+  "refresh": "Osvježi",
+  "go": "Idi",
+  "address": "Putanja mape…",
+  "hidden": "Skrivene",
+  "loading": "Učitavanje…",
+  "empty": "Ova mapa je prazna.",
+  "permission": "Nemate dopuštenje za čitanje ove mape.",
+  "missing": "Mapa ne postoji ili putanja upućuje na datoteku.",
+  "invalid": "Nije moguće pročitati mapu.",
+  "limited": "Prikazuje se prvih %1 stavki. Otvorite upravitelj datoteka da biste vidjeli sve.",
+  "openManager": "Otvori u upravitelju datoteka",
+  "hint": "Kliknite jednom da biste otvorili mapu ili datoteku.",
+  "count": {
+    "one": "%1 stavka",
+    "few": "%1 stavke",
+    "other": "%1 stavki"
+  }
+}

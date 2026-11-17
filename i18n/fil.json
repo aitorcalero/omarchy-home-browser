@@ -1,0 +1,22 @@
+{
+  "title": "Tagabrowse ng file",
+  "home": "Home",
+  "back": "Bumalik",
+  "up": "Pataas",
+  "refresh": "I-refresh",
+  "go": "Pumunta",
+  "address": "Path ng folder…",
+  "hidden": "Nakatago",
+  "loading": "Naglo-load…",
+  "empty": "Walang laman ang folder na ito.",
+  "permission": "Wala kang pahintulot na basahin ang folder na ito.",
+  "missing": "Wala ang folder na ito, o tumutukoy sa isang file ang path.",
+  "invalid": "Hindi mabasa ang folder.",
+  "limited": "Ipinapakita ang unang %1 item. Buksan ang file manager para makita ang lahat.",
+  "openManager": "Buksan sa file manager",
+  "hint": "Mag-click nang isang beses para magbukas ng folder o file.",
+  "count": {
+    "one": "%1 item",
+    "other": "%1 item"
+  }
+}

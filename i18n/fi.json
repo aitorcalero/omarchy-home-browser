@@ -1,0 +1,22 @@
+{
+  "title": "Tiedostoselain",
+  "home": "Koti",
+  "back": "Takaisin",
+  "up": "Ylös",
+  "refresh": "Päivitä",
+  "go": "Siirry",
+  "address": "Kansion polku…",
+  "hidden": "Piilotetut",
+  "loading": "Ladataan…",
+  "empty": "Tämä kansio on tyhjä.",
+  "permission": "Sinulla ei ole oikeutta lukea tätä kansiota.",
+  "missing": "Kansiota ei ole olemassa tai polku osoittaa tiedostoon.",
+  "invalid": "Kansiota ei voitu lukea.",
+  "limited": "Näytetään ensimmäiset %1 kohdetta. Näet kaikki kohteet avaamalla tiedostonhallinnan.",
+  "openManager": "Avaa tiedostonhallinnassa",
+  "hint": "Avaa kansio tai tiedosto yhdellä napsautuksella.",
+  "count": {
+    "one": "%1 kohde",
+    "other": "%1 kohdetta"
+  }
+}

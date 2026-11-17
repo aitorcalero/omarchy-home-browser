@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "aitor.home-browser",
+  "name": "Home Browser",
+  "version": "1.1.0",
+  "author": "Aitor",
+  "description": "Browse local folders from a bar popup with an editable address bar.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Home Browser",
+    "description": "Browse your home folder and the filesystem",
+    "category": "Utilities",
+    "allowMultiple": false,
+    "defaultSection": "left"
+  }
+}

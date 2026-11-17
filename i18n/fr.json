@@ -1,0 +1,23 @@
+{
+  "title": "Explorateur de fichiers",
+  "home": "Dossier personnel",
+  "back": "Retour",
+  "up": "Remonter",
+  "refresh": "Actualiser",
+  "go": "Aller",
+  "address": "Chemin du dossier…",
+  "hidden": "Masqués",
+  "loading": "Chargement…",
+  "empty": "Ce dossier est vide.",
+  "permission": "Vous n’avez pas la permission de lire ce dossier.",
+  "missing": "Ce dossier n’existe pas ou le chemin désigne un fichier.",
+  "invalid": "Impossible de lire le dossier.",
+  "limited": "Les %1 premiers éléments sont affichés. Ouvrez le gestionnaire de fichiers pour tous les voir.",
+  "openManager": "Ouvrir dans le gestionnaire de fichiers",
+  "hint": "Cliquez une fois pour ouvrir un dossier ou un fichier.",
+  "count": {
+    "one": "%1 élément",
+    "many": "%1 éléments",
+    "other": "%1 éléments"
+  }
+}

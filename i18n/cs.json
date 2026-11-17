@@ -1,0 +1,23 @@
+{
+  "title": "Prohlížeč souborů",
+  "home": "Domov",
+  "back": "Zpět",
+  "up": "Nahoru",
+  "refresh": "Obnovit",
+  "go": "Přejít",
+  "address": "Cesta ke složce…",
+  "hidden": "Skryté",
+  "loading": "Načítání…",
+  "empty": "Tato složka je prázdná.",
+  "permission": "Nemáte oprávnění ke čtení této složky.",
+  "missing": "Složka neexistuje nebo cesta odkazuje na soubor.",
+  "invalid": "Složku nelze přečíst.",
+  "limited": "Zobrazuje se prvních %1 položek. Pro zobrazení všech otevřete správce souborů.",
+  "openManager": "Otevřít ve správci souborů",
+  "hint": "Jedním kliknutím otevřete složku nebo soubor.",
+  "count": {
+    "one": "%1 položka",
+    "few": "%1 položky",
+    "other": "%1 položek"
+  }
+}

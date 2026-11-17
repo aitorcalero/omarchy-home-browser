@@ -1,0 +1,22 @@
+{
+  "title": "Filutforsker",
+  "home": "Hjem",
+  "back": "Tilbake",
+  "up": "Opp",
+  "refresh": "Oppdater",
+  "go": "Gå",
+  "address": "Mappesti…",
+  "hidden": "Skjulte",
+  "loading": "Laster…",
+  "empty": "Denne mappen er tom.",
+  "permission": "Du har ikke tillatelse til å lese denne mappen.",
+  "missing": "Mappen finnes ikke, eller stien peker på en fil.",
+  "invalid": "Kunne ikke lese mappen.",
+  "limited": "De første %1 elementene vises. Åpne filbehandleren for å se alle.",
+  "openManager": "Åpne i filbehandler",
+  "hint": "Klikk én gang for å åpne en mappe eller fil.",
+  "count": {
+    "one": "%1 element",
+    "other": "%1 elementer"
+  }
+}

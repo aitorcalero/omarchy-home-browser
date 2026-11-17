@@ -1,0 +1,23 @@
+{
+  "title": "Explorator de fișiere",
+  "home": "Dosar personal",
+  "back": "Înapoi",
+  "up": "Sus",
+  "refresh": "Reîmprospătează",
+  "go": "Mergi",
+  "address": "Calea dosarului…",
+  "hidden": "Ascunse",
+  "loading": "Se încarcă…",
+  "empty": "Acest dosar este gol.",
+  "permission": "Nu ai permisiunea de a citi acest dosar.",
+  "missing": "Dosarul nu există sau calea indică un fișier.",
+  "invalid": "Dosarul nu a putut fi citit.",
+  "limited": "Sunt afișate primele %1 de elemente. Deschide managerul de fișiere pentru a le vedea pe toate.",
+  "openManager": "Deschide în managerul de fișiere",
+  "hint": "Fă clic o dată pentru a deschide un dosar sau un fișier.",
+  "count": {
+    "one": "%1 element",
+    "few": "%1 elemente",
+    "other": "%1 de elemente"
+  }
+}

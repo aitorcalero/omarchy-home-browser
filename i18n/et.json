@@ -1,0 +1,22 @@
+{
+  "title": "Failisirvija",
+  "home": "Kodukaust",
+  "back": "Tagasi",
+  "up": "Üles",
+  "refresh": "Värskenda",
+  "go": "Mine",
+  "address": "Kausta asukoht…",
+  "hidden": "Peidetud",
+  "loading": "Laadimine…",
+  "empty": "See kaust on tühi.",
+  "permission": "Sul pole õigust seda kausta lugeda.",
+  "missing": "Kausta pole olemas või asukoht viitab failile.",
+  "invalid": "Kausta ei saanud lugeda.",
+  "limited": "Kuvatakse esimesed %1 üksust. Kõigi vaatamiseks ava failihaldur.",
+  "openManager": "Ava failihalduris",
+  "hint": "Kausta või faili avamiseks klõpsa üks kord.",
+  "count": {
+    "one": "%1 üksus",
+    "other": "%1 üksust"
+  }
+}

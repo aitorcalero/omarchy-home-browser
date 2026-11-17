@@ -1,0 +1,21 @@
+{
+  "title": "Pelayar fail",
+  "home": "Laman utama",
+  "back": "Kembali",
+  "up": "Naik",
+  "refresh": "Muat semula",
+  "go": "Pergi",
+  "address": "Laluan folder…",
+  "hidden": "Tersembunyi",
+  "loading": "Memuatkan…",
+  "empty": "Folder ini kosong.",
+  "permission": "Anda tidak mempunyai kebenaran untuk membaca folder ini.",
+  "missing": "Folder tidak wujud atau laluan merujuk kepada fail.",
+  "invalid": "Tidak dapat membaca folder.",
+  "limited": "Memaparkan %1 item pertama. Buka pengurus fail untuk melihat semuanya.",
+  "openManager": "Buka dalam pengurus fail",
+  "hint": "Klik sekali untuk membuka folder atau fail.",
+  "count": {
+    "other": "%1 item"
+  }
+}

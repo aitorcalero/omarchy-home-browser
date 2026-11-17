@@ -1,0 +1,24 @@
+{
+  "title": "Brskalnik datotek",
+  "home": "Domača mapa",
+  "back": "Nazaj",
+  "up": "Gor",
+  "refresh": "Osveži",
+  "go": "Pojdi",
+  "address": "Pot do mape…",
+  "hidden": "Skrite",
+  "loading": "Nalaganje…",
+  "empty": "Ta mapa je prazna.",
+  "permission": "Nimate dovoljenja za branje te mape.",
+  "missing": "Mapa ne obstaja ali pa pot kaže na datoteko.",
+  "invalid": "Mape ni bilo mogoče prebrati.",
+  "limited": "Prikazanih je prvih %1 elementov. Za ogled vseh odprite upravljalnik datotek.",
+  "openManager": "Odpri v upravljalniku datotek",
+  "hint": "Z enim klikom odprete mapo ali datoteko.",
+  "count": {
+    "one": "%1 element",
+    "two": "%1 elementa",
+    "few": "%1 elementi",
+    "other": "%1 elementov"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Brabhsálaí comhad",
+  "home": "Baile",
+  "back": "Siar",
+  "up": "Suas",
+  "refresh": "Athnuaigh",
+  "go": "Téigh",
+  "address": "Conair an fhillteáin…",
+  "hidden": "Folaithe",
+  "loading": "Á luchtú…",
+  "empty": "Tá an fillteán seo folamh.",
+  "permission": "Níl cead agat an fillteán seo a léamh.",
+  "missing": "Níl an fillteán ann nó tagraíonn an chonair do chomhad.",
+  "invalid": "Níorbh fhéidir an fillteán a léamh.",
+  "limited": "Tá na chéad %1 mír á dtaispeáint. Oscail an bainisteoir comhad chun iad go léir a fheiceáil.",
+  "openManager": "Oscail sa bhainisteoir comhad",
+  "hint": "Cliceáil uair amháin chun fillteán nó comhad a oscailt.",
+  "count": {
+    "one": "%1 mhír",
+    "two": "%1 mhír",
+    "few": "%1 mhír",
+    "many": "%1 mír",
+    "other": "%1 mír"
+  }
+}

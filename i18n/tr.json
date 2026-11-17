@@ -1,0 +1,22 @@
+{
+  "title": "Dosya tarayıcısı",
+  "home": "Ev",
+  "back": "Geri",
+  "up": "Yukarı",
+  "refresh": "Yenile",
+  "go": "Git",
+  "address": "Klasör yolu…",
+  "hidden": "Gizli",
+  "loading": "Yükleniyor…",
+  "empty": "Bu klasör boş.",
+  "permission": "Bu klasörü okuma izniniz yok.",
+  "missing": "Klasör mevcut değil veya yol bir dosyaya ait.",
+  "invalid": "Klasör okunamadı.",
+  "limited": "İlk %1 öğe gösteriliyor. Tümünü görmek için dosya yöneticisini açın.",
+  "openManager": "Dosya yöneticisinde aç",
+  "hint": "Bir klasörü veya dosyayı açmak için bir kez tıklayın.",
+  "count": {
+    "one": "%1 öğe",
+    "other": "%1 öğe"
+  }
+}

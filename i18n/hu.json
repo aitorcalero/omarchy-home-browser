@@ -1,0 +1,22 @@
+{
+  "title": "Fájlböngésző",
+  "home": "Saját mappa",
+  "back": "Vissza",
+  "up": "Fel",
+  "refresh": "Frissítés",
+  "go": "Ugrás",
+  "address": "Mappa elérési útja…",
+  "hidden": "Rejtett",
+  "loading": "Betöltés…",
+  "empty": "Ez a mappa üres.",
+  "permission": "Nincs jogosultsága a mappa olvasásához.",
+  "missing": "A mappa nem létezik, vagy az útvonal egy fájlra mutat.",
+  "invalid": "A mappa nem olvasható.",
+  "limited": "Az első %1 elem látható. Az összes megtekintéséhez nyissa meg a fájlkezelőt.",
+  "openManager": "Megnyitás a fájlkezelőben",
+  "hint": "Egy kattintással megnyithat egy mappát vagy fájlt.",
+  "count": {
+    "one": "%1 elem",
+    "other": "%1 elem"
+  }
+}

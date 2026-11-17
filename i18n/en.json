@@ -1,0 +1,22 @@
+{
+  "title": "File browser",
+  "home": "Home",
+  "back": "Back",
+  "up": "Up",
+  "refresh": "Refresh",
+  "go": "Go",
+  "address": "Folder path…",
+  "hidden": "Hidden",
+  "loading": "Loading…",
+  "empty": "This folder is empty.",
+  "count": {
+    "one": "%1 item",
+    "other": "%1 items"
+  },
+  "permission": "You do not have permission to read this folder.",
+  "missing": "This folder does not exist, or the path is a file.",
+  "invalid": "Could not read this folder.",
+  "limited": "Showing the first %1 items. Open the file manager to see them all.",
+  "openManager": "Open in file manager",
+  "hint": "Click once to enter a folder or open a file."
+}

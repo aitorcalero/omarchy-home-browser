@@ -1,0 +1,22 @@
+{
+  "title": "Explorador de archivos",
+  "home": "Inicio",
+  "back": "Atrás",
+  "up": "Subir",
+  "refresh": "Actualizar",
+  "go": "Ir",
+  "address": "Ruta de la carpeta…",
+  "hidden": "Ocultos",
+  "loading": "Cargando…",
+  "empty": "Esta carpeta está vacía.",
+  "count": {
+    "one": "%1 elemento",
+    "other": "%1 elementos"
+  },
+  "permission": "No tienes permiso para leer esta carpeta.",
+  "missing": "La carpeta no existe o la ruta corresponde a un archivo.",
+  "invalid": "No se pudo leer la carpeta.",
+  "limited": "Se muestran los primeros %1 elementos. Abre la carpeta en el gestor para verlos todos.",
+  "openManager": "Abrir en el gestor de archivos",
+  "hint": "Un clic entra en una carpeta o abre un archivo."
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Bestandsverkenner",
+  "home": "Persoonlijke map",
+  "back": "Terug",
+  "up": "Omhoog",
+  "refresh": "Vernieuwen",
+  "go": "Ga",
+  "address": "Mappad…",
+  "hidden": "Verborgen",
+  "loading": "Laden…",
+  "empty": "Deze map is leeg.",
+  "permission": "Je hebt geen toestemming om deze map te lezen.",
+  "missing": "De map bestaat niet of het pad verwijst naar een bestand.",
+  "invalid": "Kan de map niet lezen.",
+  "limited": "De eerste %1 items worden weergegeven. Open de bestandsbeheerder om ze allemaal te bekijken.",
+  "openManager": "Openen in bestandsbeheerder",
+  "hint": "Klik één keer om een map of bestand te openen.",
+  "count": {
+    "one": "%1 item",
+    "other": "%1 items"
+  }
+}

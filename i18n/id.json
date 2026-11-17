@@ -1,0 +1,21 @@
+{
+  "title": "Penjelajah berkas",
+  "home": "Beranda",
+  "back": "Kembali",
+  "up": "Naik",
+  "refresh": "Segarkan",
+  "go": "Buka",
+  "address": "Jalur folder…",
+  "hidden": "Tersembunyi",
+  "loading": "Memuat…",
+  "empty": "Folder ini kosong.",
+  "permission": "Anda tidak memiliki izin untuk membaca folder ini.",
+  "missing": "Folder tidak ada atau jalur mengarah ke sebuah berkas.",
+  "invalid": "Tidak dapat membaca folder.",
+  "limited": "Menampilkan %1 item pertama. Buka pengelola berkas untuk melihat semuanya.",
+  "openManager": "Buka di pengelola berkas",
+  "hint": "Klik sekali untuk membuka folder atau berkas.",
+  "count": {
+    "other": "%1 item"
+  }
+}

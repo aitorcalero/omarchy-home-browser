@@ -1,0 +1,22 @@
+{
+  "title": "Filbläddrare",
+  "home": "Hem",
+  "back": "Tillbaka",
+  "up": "Upp",
+  "refresh": "Uppdatera",
+  "go": "Gå",
+  "address": "Mappsökväg…",
+  "hidden": "Dolda",
+  "loading": "Läser in…",
+  "empty": "Den här mappen är tom.",
+  "permission": "Du har inte behörighet att läsa den här mappen.",
+  "missing": "Mappen finns inte eller sökvägen pekar på en fil.",
+  "invalid": "Kunde inte läsa mappen.",
+  "limited": "De första %1 objekten visas. Öppna filhanteraren för att se alla.",
+  "openManager": "Öppna i filhanteraren",
+  "hint": "Klicka en gång för att öppna en mapp eller fil.",
+  "count": {
+    "one": "%1 objekt",
+    "other": "%1 objekt"
+  }
+}

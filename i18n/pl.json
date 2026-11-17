@@ -1,0 +1,24 @@
+{
+  "title": "Przeglądarka plików",
+  "home": "Katalog domowy",
+  "back": "Wstecz",
+  "up": "W górę",
+  "refresh": "Odśwież",
+  "go": "Przejdź",
+  "address": "Ścieżka katalogu…",
+  "hidden": "Ukryte",
+  "loading": "Wczytywanie…",
+  "empty": "Ten katalog jest pusty.",
+  "permission": "Nie masz uprawnień do odczytu tego katalogu.",
+  "missing": "Katalog nie istnieje lub ścieżka wskazuje plik.",
+  "invalid": "Nie udało się odczytać katalogu.",
+  "limited": "Wyświetlono pierwszych %1 elementów. Otwórz menedżer plików, aby zobaczyć wszystkie.",
+  "openManager": "Otwórz w menedżerze plików",
+  "hint": "Kliknij raz, aby otworzyć katalog lub plik.",
+  "count": {
+    "one": "%1 element",
+    "few": "%1 elementy",
+    "many": "%1 elementów",
+    "other": "%1 elementu"
+  }
+}

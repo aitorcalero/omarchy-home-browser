@@ -1,0 +1,23 @@
+{
+  "title": "Prehliadač súborov",
+  "home": "Domov",
+  "back": "Späť",
+  "up": "Nahor",
+  "refresh": "Obnoviť",
+  "go": "Prejsť",
+  "address": "Cesta k priečinku…",
+  "hidden": "Skryté",
+  "loading": "Načítava sa…",
+  "empty": "Tento priečinok je prázdny.",
+  "permission": "Nemáte povolenie na čítanie tohto priečinka.",
+  "missing": "Priečinok neexistuje alebo cesta odkazuje na súbor.",
+  "invalid": "Priečinok sa nepodarilo prečítať.",
+  "limited": "Zobrazuje sa prvých %1 položiek. Všetky zobrazíte otvorením správcu súborov.",
+  "openManager": "Otvoriť v správcovi súborov",
+  "hint": "Jedným kliknutím otvoríte priečinok alebo súbor.",
+  "count": {
+    "one": "%1 položka",
+    "few": "%1 položky",
+    "other": "%1 položiek"
+  }
+}

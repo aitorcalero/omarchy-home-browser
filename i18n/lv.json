@@ -1,0 +1,23 @@
+{
+  "title": "Failu pārlūks",
+  "home": "Mājas mape",
+  "back": "Atpakaļ",
+  "up": "Augšup",
+  "refresh": "Atsvaidzināt",
+  "go": "Doties",
+  "address": "Mapes ceļš…",
+  "hidden": "Slēptie",
+  "loading": "Ielādē…",
+  "empty": "Šī mape ir tukša.",
+  "permission": "Jums nav atļaujas lasīt šo mapi.",
+  "missing": "Mape nepastāv vai ceļš norāda uz failu.",
+  "invalid": "Neizdevās nolasīt mapi.",
+  "limited": "Tiek rādīti pirmie %1 vienumi. Atveriet failu pārvaldnieku, lai redzētu visus.",
+  "openManager": "Atvērt failu pārvaldniekā",
+  "hint": "Noklikšķiniet vienreiz, lai atvērtu mapi vai failu.",
+  "count": {
+    "zero": "%1 vienumu",
+    "one": "%1 vienums",
+    "other": "%1 vienumi"
+  }
+}
